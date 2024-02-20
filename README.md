@@ -1,2 +1,2 @@
-# Python_Fundamentals
-HOMEWORKS
+# PYTHON_FUNDAMENTALS
+SoftUni - January 2024
