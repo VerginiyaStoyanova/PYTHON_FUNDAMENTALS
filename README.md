@@ -1,2 +1,2 @@
 # PYTHON_FUNDAMENTALS
-SoftUni - January 2024
+These are all tasks from the SoftUni course started in January 2024.
